@@ -2,5 +2,23 @@
 
 /* Use CSS selectors and rules to style your portfolio page */
 body {
-  font-family: sans-serif;
+  font-family: cursive;
+}
+h1 {
+    color: rgb(255, 0, 179);
+  }
+h2 {
+  color: rgb(0, 255, 106)
+  }
+body {
+  background-color:rgb(255, 255, 255)
+}
+.container {
+  background-image: url("images/FuzzyDuckie.jpg");
+  background-size: cover;
+  background-position: center;
+  min-height: 200px;
+}
+table{
+  text-align: center;
 }
